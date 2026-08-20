@@ -7,9 +7,10 @@ a canvas — no GUI code, no rebuild cycle. Or skip the wire entirely: open a
 simulation sandbox, drop a pre-wired FOC current loop or a sensorless observer,
 and tune it live on the same scopes.
 
-This repository is a **showcase** — screenshots and a description of what the
-tool does. The source isn't published here. If you'd like to see it, use it, or
-talk about it, reach out (contact details at the bottom).
+I'm keeping the source private for now, so this repo is just screenshots and
+an explanation of what Baud does. If it looks like something you'd want to
+try, use, or talk about, I'd genuinely like to hear from you — see the bottom
+of this page for how to reach me.
 
 ```
 UART project:   bytes on the wire → framing → signals → widgets
@@ -149,12 +150,16 @@ Daylight (default), Console, Graphite, Paper — the same dashboard in each.
 
 ---
 
-## Interested?
+## Get in touch
 
-The source isn't public in this repository. If you'd like a demo, a closer
-look, or to talk about using or contributing to Baud, get in touch:
+I built Baud on my own and I'm not publishing the source publicly right now —
+but I'm happy to show it to you, walk through it, or talk about what it'd
+take to get you access. Reach out however's easiest:
 
-- **Email:** <suhasvemula98@gmail.com>
-- **GitHub:** <Suhas-48 / https://github.com/Suhas-48/Baud-Showcase/discussions/1>
-- **LinkedIn:** <https://www.linkedin.com/in/suhas-vemula-5694b2243/>
+- **Email:** [suhasvemula98@gmail.com](mailto:suhasvemula98@gmail.com)
+- **Discussion thread:** [github.com/Suhas-48/Baud-Showcase/discussions/1](https://github.com/Suhas-48/Baud-Showcase/discussions/1)
+- **LinkedIn:** [linkedin.com/in/suhas-vemula-5694b2243](https://www.linkedin.com/in/suhas-vemula-5694b2243/)
 
+Whichever you use, tell me a bit about what you're working on and why Baud
+caught your eye — it helps me get back to you with something useful instead
+of a generic reply.
