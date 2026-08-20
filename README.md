@@ -154,7 +154,7 @@ Daylight (default), Console, Graphite, Paper — the same dashboard in each.
 The source isn't public in this repository. If you'd like a demo, a closer
 look, or to talk about using or contributing to Baud, get in touch:
 
-- **Email:** <add suhasvemula98@gmail.com>
-- **GitHub:** <add Suhas-48 / https://github.com/Suhas-48/Baud-Showcase/discussions/1>
+- **Email:** <suhasvemula98@gmail.com>
+- **GitHub:** <Suhas-48 / https://github.com/Suhas-48/Baud-Showcase/discussions/1>
 - **LinkedIn:** <https://www.linkedin.com/in/suhas-vemula-5694b2243/>
 
